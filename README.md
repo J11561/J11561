@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J11561
 - 👀 I’m interested in increasing my technical skillset with computer science
-- 🌱 I’m currently learning python, HTML and CSS
+- 🌱 I’m currently learning Python, HTML, Angular.JS and Node.JS
 - 💞️ I’m looking to collaborate on all things code and cool development projects
 - 📫 How to reach me jj11563@outlook.com
 
